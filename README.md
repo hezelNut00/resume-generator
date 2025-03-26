@@ -4,8 +4,6 @@
 
 ## 프로젝트 설명
 - 사용자가 자신의 이력서를 작성하고 PDF로 다운로드할 수 있도록 도와주는 웹 애플리케이션입니다.
-   
-### -> [보러가기](https://hezelnut00.github.io/resume-generator/)
 
 ## 사용 기술
 - React
